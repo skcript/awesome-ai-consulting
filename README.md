@@ -19,4 +19,5 @@ This list will be ordered based on first come first serve basis. All new entries
 --------------------
 
 [Skcript](https://www.skcript.com) - AI and Machine learning consulting company specializing in strategy, implementation and development. - (Dubai, India)
+
 [IBM Cognitive Services](http://www-03.ibm.com/press/uk/en/pressrelease/47789.wss) - IBM's Consulting Practice Dedicated to Cognitive Business
